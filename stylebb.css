@@ -1,0 +1,29 @@
+header {
+  background:red;
+  padding: 20px;
+  text-align: center;
+  
+}
+
+header h1 {
+  margin: 0;
+  font-size: 22px;
+  color: #4a3a00;
+}
+
+header p {
+  margin: 5px 0 0;
+  font-size: 14px;
+  color: #4a3a00;
+}
+
+main {
+  padding: 15px;
+}
+
+section {
+  background: white;
+  border-radius: 10px;
+  padding: 15px;
+  margin-bottom: 15px;
+}
